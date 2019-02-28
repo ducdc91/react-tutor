@@ -2,7 +2,7 @@
   "name": "hello-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ducdc91.github.io/ReactJsTutor",
+  "homepage": "https://ducdc91.github.io/react-tutor",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.2",
