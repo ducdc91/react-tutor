@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "327e28722c5710c36819",
+    "revision": "a26531beffd5dc33e8e6",
     "url": "/react-tutor/static/css/main.a8a38b7c.chunk.css"
   },
   {
-    "revision": "327e28722c5710c36819",
-    "url": "/react-tutor/static/js/main.327e2872.chunk.js"
+    "revision": "a26531beffd5dc33e8e6",
+    "url": "/react-tutor/static/js/main.a26531be.chunk.js"
   },
   {
     "revision": "5a8004bda85ee051b377",
     "url": "/react-tutor/static/js/runtime~main.5a8004bd.js"
   },
   {
-    "revision": "063ce5bc9f8a30d66648",
-    "url": "/react-tutor/static/js/2.063ce5bc.chunk.js"
+    "revision": "838835256c241f9b6b64",
+    "url": "/react-tutor/static/js/2.83883525.chunk.js"
+  },
+  {
+    "revision": "5747ab3cf6c6ad96b2acbd275431859d",
+    "url": "/react-tutor/static/media/avatar.5747ab3c.JPEG"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -52,24 +56,24 @@ self.__precacheManifest = [
     "url": "/react-tutor/static/media/fa-solid-900.61969d43.woff"
   },
   {
-    "revision": "d9d17590c975aad1be0ddab673f9c769",
-    "url": "/react-tutor/static/media/fa-brands-400.d9d17590.eot"
-  },
-  {
     "revision": "c39278f7abfc798a241551194f55e29f",
     "url": "/react-tutor/static/media/fa-brands-400.c39278f7.ttf"
+  },
+  {
+    "revision": "d9d17590c975aad1be0ddab673f9c769",
+    "url": "/react-tutor/static/media/fa-brands-400.d9d17590.eot"
   },
   {
     "revision": "e7e957c87c454bccaa3bf9fdaa6874f8",
     "url": "/react-tutor/static/media/fa-regular-400.e7e957c8.svg"
   },
   {
-    "revision": "b5596f4d339f99e3d69bc41be78db962",
-    "url": "/react-tutor/static/media/fa-solid-900.b5596f4d.eot"
-  },
-  {
     "revision": "b70cea0339374107969eb53e5b1f603f",
     "url": "/react-tutor/static/media/fa-solid-900.b70cea03.ttf"
+  },
+  {
+    "revision": "b5596f4d339f99e3d69bc41be78db962",
+    "url": "/react-tutor/static/media/fa-solid-900.b5596f4d.eot"
   },
   {
     "revision": "80533988ff5fecd5be26557d08ce8237",
@@ -80,7 +84,7 @@ self.__precacheManifest = [
     "url": "/react-tutor/static/media/fa-solid-900.82905d8d.svg"
   },
   {
-    "revision": "86dfceaf5dc2a630646f9c0877af43a5",
+    "revision": "6e4e6716552f98762fefe2feb89f71b9",
     "url": "/react-tutor/index.html"
   }
 ];
