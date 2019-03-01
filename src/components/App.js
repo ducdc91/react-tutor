@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import logo from '../logo.svg';
 import './App.css';
 //import Lession3 from './Lession3';
+import CoverLetter from './CoverLetter';
 import '../assets/bootstrap/css/bootstrap.min.css';
 import '../assets/fontawesome-free/css/all.css';
 import '../assets/css/resume.css';
@@ -19,7 +20,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <h1>test</h1>
+                <CoverLetter />
             </div>
         );
     }
